@@ -7,14 +7,11 @@
 - [产品经理应该具备的工具栈](http://www.woshipm.com/pmd/581411.html)  //跳转外链
 
 
-
 ## 第二章: 写在开篇-产品经理的格局观
 - [产品格局](/PM/产品格局.md)            //跳转到内建文件夹已编辑的文章
 - [产品职能](/PM/产品职能.md)            //跳转到内建文件夹已编辑的文章
 - [产品属性](/PM/产品属性.md)            //跳转到内建文件夹已编辑的文章
 
-4）//跳转到下载外链（百度云盘等）
-5）//跳转到本人其他的Repositories
 
 ## 第三章: 产品设计逻辑
 - [抄袭的艺术](/PM/1/)          //跳转到内建文件夹已收藏的文档（word/pdf/excel/ppt/png/jpg/mp3/mp4等)
@@ -37,22 +34,12 @@
 - [逻辑严谨性的培养](/PM/1/)          //跳转到内建文件夹已收藏的文档（word/pdf/excel/ppt/png/jpg/mp3/mp4等)
 
 
-
-## 第四章: [让你的产品获得用户和媒体的持续关注](./docs/Untitled.md)
-- 取悦部分高端用户和媒体
-- 让你的用户持续获得高潮
-- 只通过产品创造用户的增长
-
-
-
-## 第五章: [身为产品经理们的修行之道](./docs/Untitled.md)
+## 第四章: 身为产品经理们的修行之道  //跳转到本人其他的Repositories
 
 ### 软件实战篇
-- [Axure](http://axure.com)
-- [Sketch](http://sketchapp.com)
-- [Principle](http://principleux.com/)
+- Axure
+- Sketch
 - Markdown
-- Excel
 
 ### 技术理念篇
 - HTML5 + CSS3 + JavaScript
@@ -62,13 +49,12 @@
 - Vue.js
 
 
+## 第六章: 基于方法论-产品秘籍 Marty Cagen
 
-## 第六章: [基于方法论，重新设计某宝App](./docs/Untitled.md)
+- [链接](https://pan.baidu.com/s/10ELmCmf1bux9_eMBV5cqrQ)   //跳转到外链云盘下载
+- 密码: 432x
 
-还在构思如何呈现形式...
-
-
-## 附录: [那些需要警惕的名言名句](./docs/Untitled.md)
+## 附录: 那些需要警惕的名言名句
 - 产品经理不需要学设计和技术
 - 产品新人建议多学点社会学和心理学
 - 你不能代表真实用户
