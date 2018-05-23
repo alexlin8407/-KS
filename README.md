@@ -17,7 +17,7 @@
 //跳转到其他的Repositories
 
 ## 第三章: 产品设计逻辑        //跳转到内建文件夹已收藏的文档（word/pdf/excel/ppt/png/jpg/mp3/mp4等)
-- [抄袭的艺术](idao/pmstack/readme.md)
+- [抄袭的艺术](/architect-awesome/readme.md)
 - 设计即文档，交互即流程
 - 遵循构成化、系统化的原则进行产品设计
   - 结构数据
